@@ -1,0 +1,10 @@
+#reg{
+    display:flex;
+    height:700px;
+    align-items: center;
+}
+
+h2{
+    text-align:center;
+    color:green;
+}
