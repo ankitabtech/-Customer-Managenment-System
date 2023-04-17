@@ -1,0 +1,30 @@
+#reg{
+    display:flex;
+    align-items: center;
+    height:700px;
+}
+h2{
+    text-align: center;
+}
+#header{
+    background:linear-gradient(to left,rgb(0, 0, 255),rgb(0, 0, 128));
+    padding:30px 0px;
+}
+#header button{
+    float:right;
+}
+#header h2{
+    color:white;
+    
+}
+#header h2{
+    padding:0px 20px
+
+}
+#footer{
+    background:linear-gradient(to left,rgb(0, 0, 255),rgb(0, 0, 128)); ;
+}
+#footer{
+    text-align: center;
+    color:white
+}
